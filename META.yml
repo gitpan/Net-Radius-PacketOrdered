@@ -10,4 +10,4 @@ no_index:
     - t
 requires:
   Digest::MD5: 0
-version: 1.51
+version: 1.52
