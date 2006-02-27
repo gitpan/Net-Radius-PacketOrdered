@@ -7,7 +7,8 @@ license('perl');
 version_from('lib/Net/Radius/PacketOrdered.pm');
 
 requires(qw(
-	    Digest::MD5 0
+	  Net::Radius::Dictionary 1.43
+	  Digest::MD5 0
 ));
 
 auto_install;
