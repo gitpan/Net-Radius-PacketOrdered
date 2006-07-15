@@ -7,7 +7,7 @@ use vars qw($VERSION @ISA @EXPORT @EXPORT_OK $VSA);
 @EXPORT    = qw(auth_resp acct_request_auth acct_response_auth);
 @EXPORT_OK = qw( );
 
-$VERSION = '1.53';
+$VERSION = '1.54';
 
 $VSA = 26;			# Type assigned in RFC2138 to the
 				# Vendor-Specific Attributes

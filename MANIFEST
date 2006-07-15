@@ -1,7 +1,8 @@
+.cvsignore
 bin/o_authclient
 bin/o_authsrv
 Build.PL
-ChangeLog
+Changes
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
